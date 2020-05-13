@@ -4,7 +4,8 @@
 int main()
 {
     int i,n;
-    printf("enter the value of n\n");
+    printf("enter the value of n for better result:\n");
+    printf("I want u in my life");
     scanf("%d",&n);
     i=1;
     do
